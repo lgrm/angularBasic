@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Macpro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S10",
+      "price": 5000
+    },
+    {
+      "name": "Geladeira",
+      "price": "1913.99",
+      "id": 4
+    }
+  ]
+}
